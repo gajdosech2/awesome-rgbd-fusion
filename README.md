@@ -19,6 +19,7 @@ This list focues ONLY on works that produce dense surface reconstruction, not on
 #### Traditional
 * [HRBF-Fusion: Accurate 3D reconstruction from RGB-D data using on-the-fly implicits](https://arxiv.org/abs/2202.01829). TOG'2022
 * [PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction](https://arxiv.org/abs/1807.11034). ECCV'2018
+* [Real-time High-accuracy 3D Reconstruction with Consumer RGB-D Cameras]([http://graphics.stanford.edu/projects/bundlefusion/(https://cg.cs.tsinghua.edu.cn/papers/TOG-2018-reconstruction.pdf)). TOG'2018
 * [BundleFusion: Real-time Globally Consistent 3D Reconstruction using Online Surface Re-integration](http://graphics.stanford.edu/projects/bundlefusion/). TOG'2017
 * [InfiniTAM](https://www.robots.ox.ac.uk/~victor/infinitam/cite.html). ECCV'2016
 * [ElasticFusion: Dense SLAM Without A Pose Graph](https://www.imperial.ac.uk/dyson-robotics-lab/downloads/elastic-fusion/). RSS'2015
@@ -26,6 +27,9 @@ This list focues ONLY on works that produce dense surface reconstruction, not on
 * [KinectFusion: Real-time dense surface mapping and tracking](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf). ISMAR'2011
 
 #### Data-driven
+* [BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion](https://github.com/likojack/bnv_fusion). CVPR'2022
+* [DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](https://cg.cs.tsinghua.edu.cn/papers/CVPR-2021-DI-Fusion.pdf). CVPR'2021
+* [NeuralFusion: Online Depth Fusion in Latent Space](https://www.silvanweder.com/publications/neural-fusion/). CVPR'2021
 * [RoutedFusion: Learning Real-time Depth Map Fusion](https://www.silvanweder.com/publications/routed-fusion/). CVPR'2020
 
 #### Offline
