@@ -25,6 +25,7 @@ This list focues ONLY on works that produce dense surface reconstruction, not on
 * [InfiniTAM](https://www.robots.ox.ac.uk/~victor/infinitam/cite.html). ECCV'2016
 * [ElasticFusion: Dense SLAM Without A Pose Graph](https://www.imperial.ac.uk/dyson-robotics-lab/downloads/elastic-fusion/). RSS'2015
 * [Real-time 3D Reconstruction in Dynamic Scenes using Point-based Fusion](https://reality.cs.ucl.ac.uk/projects/kinect/keller13realtime.html). 3DV'2013
+* [Real-time 3D Reconstruction at Scale using Voxel Hashing](http://www.niessnerlab.org/projects/niessner2013hashing.html). TOG'2013
 * [KinectFusion: Real-time dense surface mapping and tracking](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf). ISMAR'2011
 
 #### Data-driven
