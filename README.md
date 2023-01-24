@@ -11,6 +11,7 @@ This list focues ONLY on works that produce dense surface reconstruction, not on
  - [Datasets](#datasets)
 
 ## Surveys
+* [An Overview on Visual SLAM: From Tradition to Semantic](https://www.mdpi.com/2072-4292/14/13/3010). JRS'2022
 * [High-quality indoor scene 3D reconstruction with RGB-D cameras: A brief review](https://dc.tsinghuajournals.com/computational-visual-media/vol8/iss3/3/). CVM'2022
 * [3D indoor scene modeling from RGB-D data: a survey](https://dc.tsinghuajournals.com/computational-visual-media/vol1/iss4/6/). CVM'2015
 
